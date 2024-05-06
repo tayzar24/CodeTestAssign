@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\STPL.WebAPI.props" />
+</Project>

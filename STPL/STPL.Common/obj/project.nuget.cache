@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "EMg2cRUI5HyesLh8VIB7KbvJpWj6BS+IZruzIBY53CQYYMsGSytzNcBy1dljOUcNIdj+4pzj2PDe7kHQS2NUjg==",
+  "success": true,
+  "projectFilePath": "D:\\Tay Zar Myat Noe\\STPL\\STPL.Common\\STPL.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tayzarmyat.noe\\.nuget\\packages\\log4net\\2.0.17\\log4net.2.0.17.nupkg.sha512",
+    "C:\\Users\\tayzarmyat.noe\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\tayzarmyat.noe\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\tayzarmyat.noe\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\tayzarmyat.noe\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\tayzarmyat.noe\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\tayzarmyat.noe\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\tayzarmyat.noe\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
